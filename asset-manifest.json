@@ -1,0 +1,13 @@
+{
+  "main.css": "/stopwatch/static/css/main.6cb610a7.chunk.css",
+  "main.js": "/stopwatch/static/js/main.c3aa3f9c.chunk.js",
+  "main.js.map": "/stopwatch/static/js/main.c3aa3f9c.chunk.js.map",
+  "runtime~main.js": "/stopwatch/static/js/runtime~main.84f376ef.js",
+  "runtime~main.js.map": "/stopwatch/static/js/runtime~main.84f376ef.js.map",
+  "static/js/2.2752fb64.chunk.js": "/stopwatch/static/js/2.2752fb64.chunk.js",
+  "static/js/2.2752fb64.chunk.js.map": "/stopwatch/static/js/2.2752fb64.chunk.js.map",
+  "index.html": "/stopwatch/index.html",
+  "precache-manifest.ab29c3cbf214f1bbc02b779b02eaa7d6.js": "/stopwatch/precache-manifest.ab29c3cbf214f1bbc02b779b02eaa7d6.js",
+  "service-worker.js": "/stopwatch/service-worker.js",
+  "static/css/main.6cb610a7.chunk.css.map": "/stopwatch/static/css/main.6cb610a7.chunk.css.map"
+}
